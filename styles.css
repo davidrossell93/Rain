@@ -1,5 +1,5 @@
-/* Fondo del body */
-body {
+/* Fondo del body y contenedor de pantalla completa para el cursor */
+body, .full-screen {
     background-color: #0d0d0d;
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
